@@ -1,0 +1,2 @@
+# timeman
+A simple organizer
